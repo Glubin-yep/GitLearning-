@@ -1,0 +1,7 @@
+The task ask me to add some line of text.
+So I do this right now.
+And I think I do it very, very good.
+
+So I am following the instruction in very correct way and I want to tell what I did.
+I created new branch and now I am writing in this file new lines of text to commit that.
+And I think as I thought early that I do it very well.
